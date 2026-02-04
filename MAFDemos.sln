@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAFDemos", "MAFDemos\MAFDemos.csproj", "{68A3ED62-594B-4867-AE54-4F8B91FDAAC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68A3ED62-594B-4867-AE54-4F8B91FDAAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A3ED62-594B-4867-AE54-4F8B91FDAAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A3ED62-594B-4867-AE54-4F8B91FDAAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A3ED62-594B-4867-AE54-4F8B91FDAAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E84D28B-A848-4E83-8CD0-39B39EFEC95D}
+	EndGlobalSection
+EndGlobal
