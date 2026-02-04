@@ -2,6 +2,8 @@
 
 Small demo project that shows how to use the `Microsoft.Agents.AI` framework with a local Ollama LLM model. Targets .NET 9 and contains three small demos that exercise single-agent usage, an agent workflow (orchestration), and an agent that uses a local tool.
 
+For more information about the Microsoft Agent Framework see the Quick Start at `https://learn.microsoft.com/en-us/agent-framework/tutorials/quick-start?pivots=programming-language-csharp`
+
 ## Prerequisites
 - .NET 9 SDK installed (`dotnet --version` should show a 9.x SDK).
 - Ollama installed and running locally (the demos connect to `http://localhost:11434/` by default).
